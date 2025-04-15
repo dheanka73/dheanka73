@@ -9,5 +9,5 @@
 <br/>
 
 #### M A M A M I A
-<a href="#"><img width="25%" height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=dheanka73" alt="my github streak" /></a>
-<a href="#"><img width="25%" height="150rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dheanka73&show_icons=true&include_all_commits=true&count_private=true" alt="my github stats" /></a>
+<a href="#"><img width="33%" height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=dheanka73" alt="my github streak" /></a>
+<a href="#"><img width="33%" height="150rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dheanka73&show_icons=true&include_all_commits=true&count_private=true" alt="my github stats" /></a>
